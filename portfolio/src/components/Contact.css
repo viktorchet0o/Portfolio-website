@@ -1,0 +1,15 @@
+.contact {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .contact h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .contact p {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  
